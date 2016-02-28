@@ -355,3 +355,35 @@ Is it possible to deduct lease payment for my car along with standard mileage ra
 Is there an age limit on claiming my child as a dependent?,dependent_child
 What is the age limit for dependent child?,dependent_child
 How old can a child be to claim as dependent?,dependent_child
+What is the standard mileage rate for 2016?,mileage_rate_2016
+What is the standard mileage rate for 2015?,mileage_rate_2015
+What is the standard mileage rate for 2014?,mileage_rate_2014
+What is the standard mileage rate for 2013?,mileage_rate_2013
+What is the standard mileage rate for 2012?,mileage_rate_2012
+What is the standard mileage rate for 2011?,mileage_rate_2011
+What is the standard mileage rate for 2010?,mileage_rate_2010
+Are business gifts deductible?,business_gift
+If I buy gifts for my employees can they be deducted?,business_gift
+What are the rules surrounding bussiness gifts as they relate to tax law?,business_gift
+Are child support payments considered taxable income?,child_support_payment
+Am I supposed to pay taxes on child support payments?,child_support_payment
+What are the tax laws surrounding child support payments?,child_support_payment
+Are excise taxes for a vehicle deductible?,excise_tax_vehicle
+"As a full-time student, am I exempt from federal income taxes?",student_exemption
+As a student do I have to pay taxes?,student_exemption
+"As a student, how does tax law relate to me?",student_exemption
+Do student have to pay taxes?,student_exemption
+Is my tax rate lower if I am a student?,student_exemption
+Can I claim an education credit if my filing status is married filing separately?,education_credit_married
+Can you tell me about education credits with regards to being married?,education_credit_married
+If im married filing seperately am I elgible for a tax discount on school?,education_credit_married
+If I am filing separately as a married person do I get to take advantage of education credits?,education_credit_married
+Can I claim the earned income credit on Form 1040EZ?,earned_income_1040ez
+Can I receive a tax refund if I am currently making payments under an installment?,tax_refund_installment
+Do I get a refund if I am still paying last years taxes on a plan?,tax_refund_installment
+Does a small company that operates as a sole proprietorship need a tax ID number?,sole_proprietorship_tax_id
+Under what ciircumstances do I ned to register a tax ID number for sole propreitorship?,sole_proprietorship_tax_id
+how big does my company have to be to have to register a tax ID number by law?,sole_proprietorship_tax_id
+How is the amount of an education credit determined?,education_credit_amount
+Can you tell me more about education credits?,education_credit_amount
+"I want to take advantage of education credits, what are my options?",education_credit_amount
