@@ -352,3 +352,6 @@ Why do I want to use NL Classifier?,why_use_classifier
 Can i deduct the cost of lease payments and mileage rate?,lease_payment_deduction
 Is it possible to deduct lease payment for my car along with standard mileage rate?,lease_payment_deduction
 "If I am leasing a vehicle, what deductions are available?",lease_payment_deduction
+Is there an age limit on claiming my child as a dependent?,dependent_child
+What is the age limit for dependent child?,dependent_child
+How old can a child be to claim as dependent?,dependent_child
